@@ -1,10 +1,14 @@
 GitProject
 ==========
+asdf;lkjasdf
 
-GitProject for class demo
 
-1.edited by Tim Lee
+asd;fljk
+GitProjeasdf;lkjhct for class demo
 
-0.0?
-wwww
-2.HIHI2.edied
+1.edited by Tim Las;dfkjee
+asdfa
+0.dfg0?dfb
+wwdfgww
+2.HIHaasdg;lkI2.edied
+d;fkjg;alsd
